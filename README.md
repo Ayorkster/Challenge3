@@ -1,4 +1,8 @@
 # challenge3
+## User Story
+As a user with sensative information 
+I WANT a secure password that meets specicific paramaters
+SO I can keep my information safe
 
 ## Description
 This is a random password generator. Through a series of prompts you will be able to tailor the generated password by size and character type after clicking the "generate password" button. The generated password appears in the box, replacing the text 'your secure password
